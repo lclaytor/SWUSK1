@@ -1,6 +1,9 @@
 # SWUSK1
 Phase 1
 
+0.SYSTEM REQUIREMENTS
+    A computer with Internet access and a standard web browser is required to operate this software.
+
 1.INSTALLATION - Follow these steps:
     a. Ownership of the website will be transferred to the intended administrative Google account, by the developers for 
       initial release.
