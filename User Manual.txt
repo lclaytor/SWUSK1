@@ -1,0 +1,7 @@
+Booking Page User Manual
+
+OPERATION (Note: This has not changed from prior to implementation of this project.)
+  To book an appointment, the user will select their desired service from the menu. The user will then select a date and a
+  time. The user will enter their information in the form provided and click Next. The widget will prompt the user to review
+  the appointment details and then click the Confirm booking! button. If at any point, a user would like to change their 
+  appointment details, they can select Change in the bar associated with the page that they want to change. 
