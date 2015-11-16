@@ -1,0 +1,14 @@
+/*.bookeocss .inputFieldFocused {
+background-color: #FF0000;
+}*/
+.bookeocss .gobutton .smallbLeft, .bookeocss .gobutton .smallbRight {
+background: #642B8A;
+color: #FFFFFF;
+}
+.bookeocss .box1{
+/*background-image:url('http://images.containerstore.com/catalogimages/213872/10058232WhiteMeshPencilCup_600.jpg');
+background-repeat: no-repeat;
+background-size:50px 50px;*/
+background-color:#A274C0;
+/*background-position:left bottom;*/
+}
