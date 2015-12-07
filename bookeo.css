@@ -1,14 +1,65 @@
-/*.bookeocss .inputFieldFocused {
-background-color: #FF0000;
-}*/
+.bookeocss .inputFieldFocused {
+background-color: #A7EBC4;
+}
 .bookeocss .gobutton .smallbLeft, .bookeocss .gobutton .smallbRight {
 background: #642B8A;
-color: #FFFFFF;
+color: #A7EBC4;
+/*position: relative;*/
 }
-.bookeocss .box1{
+.bookeocss .box{
 /*background-image:url('http://images.containerstore.com/catalogimages/213872/10058232WhiteMeshPencilCup_600.jpg');
 background-repeat: no-repeat;
 background-size:50px 50px;*/
-background-color:#A274C0;
+background-color: #FFFFFF;
 /*background-position:left bottom;*/
 }
+
+.bookeocss .cb_bigDescription{
+  position: relative;
+  top: -12px;
+  left: -8px;
+}
+
+.bookeocss .cb_bigDescription_image{
+    position: relative;
+    top: 0px;
+    left: 0px;
+    max_height: 50px;
+}
+/* available days */
+.bookeocss #cb_fixed_calendar-container .calendar tbody .jscalendar_available {
+background-color: #A7EBC4;
+border-color: #A7EBC4;
+}
+.bookeocss .cb_bhf_legendAvailable {
+background-color: #A7EBC4;
+}
+
+/* selected date */
+.bookeocss #cb_fixed_calendar-container .calendar tbody td.selected {
+background-color: #642B8A;
+border-color: #642B8A;
+color: #FFFFFF;
+}
+.bookeocss .cb_bhf_legendBooking {
+background-color: #642B8A;
+}
+
+/* mouseover date */
+.bookeocss #cb_fixed_calendar-container .calendar tbody td.hilite {
+background-color: #A96CD1;
+border-color: #A96CD1;
+}
+
+/* unavailable days */
+.bookeocss #cb_fixed_calendar-container .calendar tbody .jscalendar_unavailable {
+background-color: #02307D;
+border-color: #02307D;
+}
+.bookeocss .cb_bhf_legendUnavailable {
+background-color: #02307D;
+}
+/*
+.bookeocss .calendar thead .weekend {
+
+}*/
